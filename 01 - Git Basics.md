@@ -142,7 +142,7 @@ git rm --cached <path_to_file>
 git mv file_from file_to
 ```
 
-# Viewing the Commit History
+# Viewing the Commit History - git log
 
 ```shell
 git log
